@@ -1,0 +1,1 @@
+psexec %1 -c c:\FCSintallPrepare.bat
